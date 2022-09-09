@@ -1,0 +1,4 @@
+Data science:
+rencontre entre le big data et l'analyse
+analyser des données pour en tirer les conclusions
+automatiser
